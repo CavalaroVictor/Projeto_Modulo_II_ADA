@@ -1,6 +1,6 @@
 Git repository dedicated to the final project of ADA Module II
 
-O projeto será sobre avaliação das estatisticas do Campoenato Brasileiro
+O projeto será sobre avaliação das estatisticas do Campeonato Brasileiro
 
 Data set 1: campeonato-brasileiro-full.csv
 
