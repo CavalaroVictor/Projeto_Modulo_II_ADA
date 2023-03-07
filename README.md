@@ -8,29 +8,29 @@ Data set 2: campeonato-brasileiro-estatisticas-full.csv
 
 Perguntas que este projeto deverá responder:
 
-1 - Qual time ganhou mais vezes
+1 - Qual time ganhou mais vezes?
 
-2 - Qual time fez mais gols
+2 - Qual time fez mais gols?
 
-3 - Qual foi o time que fez mais goleada
+3 - Qual foi o time que fez mais goleada?
 
-4 - Quem ganhou invicto
+4 - Quem ganhou invicto?
 
-5 - Qual time ganhou mais como mandante e mais como visitante
+5 - Qual time ganhou mais como mandante e mais como visitante?
 
-6 - De qual estado é o time que mais ganhou como mandante e como visitante
+6 - De qual estado é o time que mais ganhou como mandante e como visitante?
 
-7 - Qual arena é mais pé-quente e a mais pé-frio
+7 - Qual arena é mais pé-quente e a mais pé-frio?
 
-8 - Qual a média de gols por time
+8 - Qual a média de gols por time?
 
-Juntando o DataSet Full Statistic pelo time
+Juntando o DataSet Full Statistic pelo time:
 
-I - Qual time levou mais cartão
+I - Qual time levou mais cartão?
 
-II - Qual time foi mais preciso
+II - Qual time foi mais preciso?
 
-III - Qual time dominou mais a bola
+III - Qual time dominou mais a bola?
 
 
 
