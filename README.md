@@ -10,9 +10,9 @@ Perguntas que este projeto deverá responder:
 
 1 - Qual time ganhou mais vezes
 
-2 - Qual time fez mais gols
+2 - Qual time fez mais gols (OK)
 
-3 - Qual foi o time que fez mais goleada
+3 - Qual foi o time que fez mais goleada (OK)
 
 4 - Quem ganhou invicto
 
