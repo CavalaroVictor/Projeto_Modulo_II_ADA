@@ -8,11 +8,11 @@ Data set 2: campeonato-brasileiro-estatisticas-full.csv
 
 Perguntas que este projeto deverá responder:
 
-1 - Qual time ganhou mais vezes (OK)
+1 - Qual time ganhou mais vezes (Victor)
 
-2 - Qual time fez mais gols (OK)
+2 - Qual time fez mais gols (Victor)
 
-3 - Qual foi o time que fez mais goleada (OK)
+3 - Qual foi o time que fez mais goleada (Victor)
 
 4 - Quem ganhou invicto (Carol)
 
