@@ -1,12 +1,12 @@
 Git repository dedicated to the final project of ADA Module II
 
-O projeto será sobre avaliação das estatisticas do Campoenato Brasileiro
+O projeto será sobre avaliação das estatisticas do Campeonato Brasileiro
 
 Data set 1: campeonato-brasileiro-full.csv
 
 Data set 2: campeonato-brasileiro-estatisticas-full.csv
 
-Perguntas que este projeto deverá responder:
+Perguntas que este projeto deverá responder
 
 1 - Qual time ganhou mais vezes? (Victor)
 
@@ -31,6 +31,3 @@ Juntando o DataSet Full Statistic pelo time:
 10 - Qual time foi mais preciso? (Derik)
 
 11 - Qual time dominou mais a bola? (Derik)
-
-
-
