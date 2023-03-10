@@ -26,11 +26,11 @@ Perguntas que este projeto deverá responder:
 
 Juntando o DataSet Full Statistic pelo time:
 
-I - Qual time levou mais cartão? (Victor Roudino)
+9 - Qual time levou mais cartão? (Victor Roudino)
 
-II - Qual time foi mais preciso? (Derik)
+10 - Qual time foi mais preciso? (Derik)
 
-III - Qual time dominou mais a bola? (Derik)
+11 - Qual time dominou mais a bola? (Derik)
 
 
 
